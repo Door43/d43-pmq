@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pmq:home|Door43 (pmq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pmq|d43-pmq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pmq/archive/master.zip|d43-pmq.zip]]
+
+**Recent Changes**
+{{changes>ns = pmq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pmq|Ethnologue data]]
+
